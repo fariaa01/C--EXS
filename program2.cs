@@ -1,10 +1,9 @@
-﻿namespace programa15
+namespace programa15
 {
-    class triangulo
+    class pessoa
     {
         public double A;
         public double B;
-        public double C;
 
     }
 }
